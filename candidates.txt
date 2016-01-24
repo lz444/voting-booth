@@ -1,0 +1,44 @@
+(
+	(
+		"Party"
+		"President"
+		"Vice President"
+		"Slogan"
+	)
+	(
+		"H1"
+		"H2"
+		"H2"
+		"default"
+	)
+	(
+		"Democratic"
+		"Barack Obama"
+		"Joe Biden"
+		"Forward"
+	)
+	(
+		"Republican"
+		"Mitt Romney"
+		"Paul Ryan"
+		"Believe in America"
+	)
+	(
+		"Libertarian"
+		"Gary Johnson"
+		"Jim Gray"
+		"The People's President"
+	)
+	(
+		"Green"
+		"Jill Stein"
+		"Cheri Honkala"
+		"A Green New Deal for America"
+	)
+	(
+		"Constitution"
+		"Virgil Goode"
+		"Jim Clymer"
+		"Citizenship Matters"
+	)
+)
